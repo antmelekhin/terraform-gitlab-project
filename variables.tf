@@ -28,7 +28,7 @@ variable "description" {
 variable "visibility_level" {
   description = "Set to `public` to create a public project. Valid values are `private`, `internal`, `public`."
   type        = string
-  default     = "public"
+  default     = "private"
 }
 
 variable "archived" {

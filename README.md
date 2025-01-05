@@ -37,7 +37,7 @@ No modules.
 | <a name="input_namespace_id"></a> [namespace\_id](#input\_namespace\_id) | The namespace (group or user) of the project. Defaults to your user. | `number` | `null` | no |
 | <a name="input_path"></a> [path](#input\_path) | The path of the repository. | `string` | `null` | no |
 | <a name="input_topics"></a> [topics](#input\_topics) | The list of topics for the project. | `set(string)` | `[]` | no |
-| <a name="input_visibility_level"></a> [visibility\_level](#input\_visibility\_level) | Set to `public` to create a public project. Valid values are `private`, `internal`, `public`. | `string` | `"public"` | no |
+| <a name="input_visibility_level"></a> [visibility\_level](#input\_visibility\_level) | Set to `public` to create a public project. Valid values are `private`, `internal`, `public`. | `string` | `"private"` | no |
 
 ## Outputs
 
