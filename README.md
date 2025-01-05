@@ -34,7 +34,7 @@ No modules.
 | <a name="input_archive_on_destroy"></a> [archive\_on\_destroy](#input\_archive\_on\_destroy) | Set to `true` to archive the project instead of deleting on destroy. | `bool` | `false` | no |
 | <a name="input_archived"></a> [archived](#input\_archived) | Whether the project is in read-only mode (archived). | `bool` | `false` | no |
 | <a name="input_description"></a> [description](#input\_description) | A description of the project. | `string` | `null` | no |
-| <a name="input_namespace_id"></a> [namespace\_id](#input\_namespace\_id) | The namespace (group or user) of the project. Defaults to your user. | `string` | `null` | no |
+| <a name="input_namespace_id"></a> [namespace\_id](#input\_namespace\_id) | The namespace (group or user) of the project. Defaults to your user. | `number` | `null` | no |
 | <a name="input_path"></a> [path](#input\_path) | The path of the repository. | `string` | `null` | no |
 | <a name="input_topics"></a> [topics](#input\_topics) | The list of topics for the project. | `set(string)` | `[]` | no |
 | <a name="input_visibility_level"></a> [visibility\_level](#input\_visibility\_level) | Set to `public` to create a public project. Valid values are `private`, `internal`, `public`. | `string` | `"public"` | no |

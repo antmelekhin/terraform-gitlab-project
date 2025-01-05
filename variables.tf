@@ -15,7 +15,7 @@ variable "path" {
 
 variable "namespace_id" {
   description = "The namespace (group or user) of the project. Defaults to your user."
-  type        = string
+  type        = number
   default     = null
 }
 
