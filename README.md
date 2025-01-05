@@ -1,4 +1,4 @@
-# GitLab project Module
+# GitLab project module
 
 This module manages GitLab projects.
 
