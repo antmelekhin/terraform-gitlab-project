@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/antmelekhin/terraform-gitlab-project/compare/v1.0.1...v1.1.0) (2025-04-23)
+
+
+### Features
+
+* add merge variables ([#1](https://github.com/antmelekhin/terraform-gitlab-project/issues/1)) ([df786b3](https://github.com/antmelekhin/terraform-gitlab-project/commit/df786b37ca77d00ed581a4669e2d2f2aed9650fa))
+
 ## [1.0.1](https://github.com/antmelekhin/terraform-gitlab-project/compare/v1.0.0...v1.0.1) (2025-01-05)
 
 
